@@ -1,2 +1,4 @@
 # Recommender-Systems-for-IMDb
-Popularity-based recommender, content-based recommender and collaborative filtering recommender.
+- Popularity-based recommender
+- Content-based recommender
+- Collaborative filtering recommender.
